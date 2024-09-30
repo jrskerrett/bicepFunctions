@@ -1,4 +1,4 @@
-# functions.bicep
+# namingFunctions.bicep
 Bicep functions which support client-side naming validation
 
 # types.bicep
